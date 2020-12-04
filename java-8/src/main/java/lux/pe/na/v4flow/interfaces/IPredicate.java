@@ -1,0 +1,1 @@
+package lux.pe.na.v4flow.interfaces;public interface IPredicate<T> {    Boolean test(T value);}

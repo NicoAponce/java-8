@@ -1,0 +1,1 @@
+package lux.pe.na.v4flow.interfaces;public interface IOperatorFunction<T> extends IFunction<T, T> {}

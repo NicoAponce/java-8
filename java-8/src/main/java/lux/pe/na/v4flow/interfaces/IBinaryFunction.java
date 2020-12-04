@@ -1,0 +1,1 @@
+package lux.pe.na.v4flow.interfaces;public interface IBinaryFunction<T,K,R> {    R apply(T value1, K value2);}

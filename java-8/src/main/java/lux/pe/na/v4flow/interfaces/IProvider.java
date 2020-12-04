@@ -1,0 +1,1 @@
+package lux.pe.na.v4flow.interfaces;public interface IProvider<T> {    T get();}
