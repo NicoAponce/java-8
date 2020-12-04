@@ -1,0 +1,1 @@
+package lux.pe.na.anonymous.interfaces;public interface IProvider {    Integer get();}
