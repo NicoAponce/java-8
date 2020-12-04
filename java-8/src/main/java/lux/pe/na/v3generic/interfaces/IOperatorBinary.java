@@ -1,0 +1,1 @@
+package lux.pe.na.v3generic.interfaces;public interface IOperatorBinary<T> extends IBinaryFunction<T, T, T> {}

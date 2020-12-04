@@ -1,0 +1,1 @@
+package lux.pe.na.v1course.classes;import lux.pe.na.v1course.interfaces.IProvider;import java.util.Random;public class RandomNumbers implements IProvider {    Random random = new Random();    @Override    public Integer get() {        return random.nextInt(100);    }}

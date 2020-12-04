@@ -1,1 +1,0 @@
-package lux.pe.na.course.interfaces;public interface IBinaryFunction {    Integer apply(Integer value1, Integer value2);}

@@ -1,0 +1,1 @@
+package lux.pe.na.v1course.classes;import lux.pe.na.v1course.interfaces.IPredicate;public class OnlyOdd implements IPredicate {    @Override    public Boolean test(Integer value) {        return value % 2 == 1;    }}

@@ -1,0 +1,1 @@
+package lux.pe.na.v1course.classes;import lux.pe.na.v1course.interfaces.IProvider;public class NaturalNumbers implements IProvider {    private static int next = 0;    @Override    public Integer get() {        return next++;    }}

@@ -1,0 +1,1 @@
+package lux.pe.na.v1course.interfaces;public interface IPredicate {    Boolean test(Integer value);}

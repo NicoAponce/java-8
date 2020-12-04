@@ -1,0 +1,1 @@
+package lux.pe.na.v1course.interfaces;public interface IFunction {    Integer apply(Integer value);}

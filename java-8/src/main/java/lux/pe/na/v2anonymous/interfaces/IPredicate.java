@@ -1,0 +1,1 @@
+package lux.pe.na.v2anonymous.interfaces;public interface IPredicate {    Boolean test(Integer value);}

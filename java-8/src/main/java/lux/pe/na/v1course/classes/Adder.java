@@ -1,0 +1,1 @@
+package lux.pe.na.v1course.classes;import lux.pe.na.v1course.interfaces.IBinaryFunction;public class Adder implements IBinaryFunction {    @Override    public Integer apply(Integer value1, Integer value2) {        return value1 + value2;    }}
