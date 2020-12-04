@@ -1,0 +1,1 @@
+package lux.pe.na.course.classes;import lux.pe.na.course.interfaces.IFunction;public class SquaredNumbers implements IFunction {    @Override    public Integer apply(Integer value) {        return value * value;    }}
