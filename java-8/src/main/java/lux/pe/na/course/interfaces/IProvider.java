@@ -1,0 +1,1 @@
+package lux.pe.na.course.interfaces;public interface IProvider {    Integer get();}
