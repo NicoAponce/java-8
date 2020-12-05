@@ -1,0 +1,1 @@
+package lux.pe.na.v5lambdas.interfaces;@FunctionalInterfacepublic interface IOperatorFunction<T> extends IFunction<T, T> {}

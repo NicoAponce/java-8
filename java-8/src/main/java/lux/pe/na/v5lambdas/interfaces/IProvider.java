@@ -1,0 +1,1 @@
+package lux.pe.na.v5lambdas.interfaces;@FunctionalInterfacepublic interface IProvider<T> {    T get();}
