@@ -1,0 +1,1 @@
+package lux.pe.na.v9optional.functions;public class Description {    private final Integer value;    public Description(Integer value) {        this.value = value;    }    public int getValue() {        return value;    }    @Override    public String toString() {        return "V(" + value + ")";    }}
